@@ -1,9 +1,9 @@
-#Mark File#
-##linux##
+#Mark File
+##linux
 nano
 touch
 mkdir
-##git##
+##git
 init
 add
 commit
